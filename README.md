@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roaman Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Roman Ahmed</h1>
 <h3 align="center">Learn ML and Mlops</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
