@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman Ahmed</h1>
-<h3 align="center">Learn ML and Mlops</h3>
+<h3 align="center">Aspiring Machine Learning Enthusiast | Exploring the World of MLOps and Model Deployment</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
 
